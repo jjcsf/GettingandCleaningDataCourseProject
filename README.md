@@ -1,6 +1,6 @@
 
 
-Unzip the contents to you working directory https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+Unzip the contents to your working directory https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
 The script run_analysis.R will process the data found above and perform the following
 
